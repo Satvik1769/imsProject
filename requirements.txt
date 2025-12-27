@@ -1,0 +1,16 @@
+  numpy
+  pandas
+  matplotlib
+  scipy
+  scikit-learn
+  lightgbm
+  shap
+  PyWavelets
+jupyter
+ipywidgets
+ notebook
+  jupyterlab
+  tensorflow
+  obd
+  pyserial
+  psycopg2-binary
